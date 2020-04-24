@@ -51,8 +51,6 @@
 
   </div>
 </footer>
-
-<script src="js/scripts-bundled.js"></script>
 </body>
 
 </html>
